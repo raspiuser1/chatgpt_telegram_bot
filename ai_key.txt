@@ -1,0 +1,1 @@
+paste here your chatgpt key, login to chatgpt and obtain the api key
