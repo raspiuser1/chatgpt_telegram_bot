@@ -9,8 +9,8 @@ command and your answer will be in telegram.
 A computer with linus or a raspberry pi for example.
 some librarys like:
 
-`pip install telegram`
-`pip install openai`
+`pip install telegram` 
+`pip install openai` 
 
 get your API key from chatgpt and put it in to ai_api.txt
 get your API key from the @botfather at telegram and put the key in key.txt see:
