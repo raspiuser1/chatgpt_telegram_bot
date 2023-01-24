@@ -1,5 +1,5 @@
 # ChatGPT Telegram Bot
-[![IMAGE VIDEO](https://img.youtube.com/vi/ZsROMOlVQlA/0.jpg)](https://www.youtube.com/watch?v=ZsROMOlVQlA)<br />
+[![IMAGE VIDEO](https://img.youtube.com/vi/E0OmbZal7Yw/0.jpg)](https://www.youtube.com/watch?v=E0OmbZal7Yw)<br />
 
 # What does it do?
 ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot launched by OpenAI in November 2022. It is built on top of OpenAI's GPT-3 family of large language   models, and is fine-tuned (an approach to transfer learning)[2] with both supervised and reinforcement learning techniques.  
