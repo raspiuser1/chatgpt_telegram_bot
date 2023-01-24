@@ -1,4 +1,4 @@
-# Automate your Youtube Subtitles (with telegram bot)
+# ChatGPT Telegram Bot
 [![IMAGE VIDEO](https://img.youtube.com/vi/ZsROMOlVQlA/0.jpg)](https://www.youtube.com/watch?v=ZsROMOlVQlA)<br />
 
 # What does it do?
