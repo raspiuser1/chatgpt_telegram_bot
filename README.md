@@ -14,6 +14,8 @@ some librarys like:
 `pip install telegram`  
 `pip install openai`  
 
+you may need to change the rights of the file to read and execute.
+
 get your API key from chatgpt, login and look in the settings for your key and put it in to ai_api.txt  
 get your API key from the @botfather at telegram and put the key in key.txt see:  
 https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/  
